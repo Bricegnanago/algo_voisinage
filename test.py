@@ -40,6 +40,7 @@ def recup_voisinage(tab, pos_x_0):
 
     return new_tab
 
+# cette pro
 def solution():
     return min(recup_voisinage(tab, pos_x_0))
 
